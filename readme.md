@@ -18,7 +18,7 @@
 
 ## How To Use?
 
-1. Put Your Discord Token In `env` 
+1. Put Your Discord Token In `env` With Key 'token' And Value As Your `discord token`
 2. Modify `config.json` According To Your Need
 3. Run It 
 4. It Will Ask For You A `Prefix`
