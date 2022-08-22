@@ -32,3 +32,6 @@
 1. __Github__ [Click Here](https://github.com/theaxes)
 2. __Youtube__ [Click Here](https://youtube.com/channel/UCMEhNSLa2O6WQqtqpjwu-sw)
 3. __Replit Selfbot__ [Click Here](https://replit.com/@AxeHelper/AxeSelfbot?v=1)
+
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/AshOp)
