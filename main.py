@@ -4,9 +4,6 @@
 # You have to put token in env do no loggers!!
 # Read Readme.md For More!
 
-
-
-# Python code obfuscated by www.development-tools.net 
  
 
 import base64, codecs
