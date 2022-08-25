@@ -1,7 +1,7 @@
 # Why Obfuscated?
 # To Keep Safe From Skidders
 # What if there is logger?
-# You have to put token in env do no loggers!!
+# You have to put token in env so no loggers!!
 # Read Readme.md For More!
 
  
